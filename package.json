@@ -1,0 +1,19 @@
+{
+  "name": "coffee-web",
+  "version": "1.0.0",
+  "description": "个人网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffee330501/coffee-web.git"
+  },
+  "author": "objcfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coffee330501/coffee-web/issues"
+  },
+  "homepage": "https://github.com/coffee330501/coffee-web#readme"
+}
